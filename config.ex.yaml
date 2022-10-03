@@ -1,0 +1,13 @@
+discord:
+  token: ""
+
+database:
+  host: "localhost"
+  port: 27015
+  password: ""
+
+# Users who are allowed to
+# confirm/deny requests
+# IDs.
+users:
+  - "327639826075484162"
